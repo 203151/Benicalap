@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 0465f8ca7dff4b84eb9c4f2a0e60ff30
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aspidist10
+    100002: Aspidist11
+    100004: Aspidist12
+    100006: Aspidist13
+    100008: Aspidist14
+    100010: Aspidist15
+    100012: Aspidist16
+    100014: Aspidist17
+    100016: Aspidist18
+    100018: Aspidist19
+    100020: Aspidist20
+    100022: Aspidist21
+    100024: Aspidist22
+    100026: Aspidist23
+    100028: Aspidist24
+    100030: Aspidist25
+    100032: Aspidist26
+    100034: Aspidist27
+    100036: Aspidist28
+    100038: Aspidist29
+    100040: Aspidist30
+    100042: Aspidist31
+    100044: Aspidist32
+    100046: Aspidist33
+    100048: Aspidist34
+    100050: Aspidist35
+    100052: Aspidistr0
+    100054: Aspidistr1
+    100056: Aspidistr2
+    100058: Aspidistr3
+    100060: Aspidistr4
+    100062: Aspidistr5
+    100064: Aspidistr6
+    100066: Aspidistr7
+    100068: Aspidistr8
+    100070: Aspidistr9
+    100072: Aspidistra
+    100074: //RootNode
+    400000: Aspidist10
+    400002: Aspidist11
+    400004: Aspidist12
+    400006: Aspidist13
+    400008: Aspidist14
+    400010: Aspidist15
+    400012: Aspidist16
+    400014: Aspidist17
+    400016: Aspidist18
+    400018: Aspidist19
+    400020: Aspidist20
+    400022: Aspidist21
+    400024: Aspidist22
+    400026: Aspidist23
+    400028: Aspidist24
+    400030: Aspidist25
+    400032: Aspidist26
+    400034: Aspidist27
+    400036: Aspidist28
+    400038: Aspidist29
+    400040: Aspidist30
+    400042: Aspidist31
+    400044: Aspidist32
+    400046: Aspidist33
+    400048: Aspidist34
+    400050: Aspidist35
+    400052: Aspidistr0
+    400054: Aspidistr1
+    400056: Aspidistr2
+    400058: Aspidistr3
+    400060: Aspidistr4
+    400062: Aspidistr5
+    400064: Aspidistr6
+    400066: Aspidistr7
+    400068: Aspidistr8
+    400070: Aspidistr9
+    400072: Aspidistra
+    400074: //RootNode
+    2100000: Aspidistra Milky
+    2100002: Aspidistra Mi1
+    2100004: Aspidistra Mi2
+    2100006: Aspidistra Mi3
+    2100008: Aspidistra Mi4
+    2100010: Aspidistra Mi5
+    2100012: Aspidistra Mi6
+    2100014: Aspidistra Mi7
+    2100016: Aspidistra Mi8
+    2100018: Aspidistra Mi9
+    2100020: Aspidistra Mi10
+    2100022: Aspidistra Mi11
+    2100024: Aspidistra Mi12
+    2100026: Aspidistra Mi13
+    2100028: Aspidistra Mi14
+    2100030: Aspidistra Mi15
+    2100032: Aspidistra Mi16
+    2100034: Aspidistra Mi17
+    2100036: Aspidistra Mi18
+    2100038: Aspidistra Mi19
+    2100040: Aspidistra Mi20
+    2100042: Aspidistra Mi21
+    2100044: Aspidistra Mi22
+    2100046: Aspidistra Mi23
+    2100048: Aspidistra Mi24
+    2100050: Aspidistra Mi25
+    2100052: Aspidistra Mi26
+    2100054: Aspidistra Mi27
+    2100056: Aspidistra Mi28
+    2100058: Aspidistra Mi29
+    2100060: Aspidistra Mi30
+    2100062: Aspidistra Mi31
+    2100064: Aspidistra Mi32
+    2100066: Aspidistra Mi33
+    2100068: Aspidistra Mi34
+    2100070: Aspidistra Mi35
+    2100072: Aspidistra Mi36
+    2300000: Aspidist10
+    2300002: Aspidist11
+    2300004: Aspidist12
+    2300006: Aspidist13
+    2300008: Aspidist14
+    2300010: Aspidist15
+    2300012: Aspidist16
+    2300014: Aspidist17
+    2300016: Aspidist18
+    2300018: Aspidist19
+    2300020: Aspidist20
+    2300022: Aspidist21
+    2300024: Aspidist22
+    2300026: Aspidist23
+    2300028: Aspidist24
+    2300030: Aspidist25
+    2300032: Aspidist26
+    2300034: Aspidist27
+    2300036: Aspidist28
+    2300038: Aspidist29
+    2300040: Aspidist30
+    2300042: Aspidist31
+    2300044: Aspidist32
+    2300046: Aspidist33
+    2300048: Aspidist34
+    2300050: Aspidist35
+    2300052: Aspidistr0
+    2300054: Aspidistr1
+    2300056: Aspidistr2
+    2300058: Aspidistr3
+    2300060: Aspidistr4
+    2300062: Aspidistr5
+    2300064: Aspidistr6
+    2300066: Aspidistr7
+    2300068: Aspidistr8
+    2300070: Aspidistr9
+    2300072: Aspidistra
+    3300000: Aspidist10
+    3300002: Aspidist11
+    3300004: Aspidist12
+    3300006: Aspidist13
+    3300008: Aspidist14
+    3300010: Aspidist15
+    3300012: Aspidist16
+    3300014: Aspidist17
+    3300016: Aspidist18
+    3300018: Aspidist19
+    3300020: Aspidist20
+    3300022: Aspidist21
+    3300024: Aspidist22
+    3300026: Aspidist23
+    3300028: Aspidist24
+    3300030: Aspidist25
+    3300032: Aspidist26
+    3300034: Aspidist27
+    3300036: Aspidist28
+    3300038: Aspidist29
+    3300040: Aspidist30
+    3300042: Aspidist31
+    3300044: Aspidist32
+    3300046: Aspidist33
+    3300048: Aspidist34
+    3300050: Aspidist35
+    3300052: Aspidistr0
+    3300054: Aspidistr1
+    3300056: Aspidistr2
+    3300058: Aspidistr3
+    3300060: Aspidistr4
+    3300062: Aspidistr5
+    3300064: Aspidistr6
+    3300066: Aspidistr7
+    3300068: Aspidistr8
+    3300070: Aspidistr9
+    3300072: Aspidistra
+    4300000: Aspidistra
+    4300002: Aspidistr0
+    4300004: Aspidistr1
+    4300006: Aspidistr2
+    4300008: Aspidistr3
+    4300010: Aspidistr4
+    4300012: Aspidistr5
+    4300014: Aspidistr6
+    4300016: Aspidistr7
+    4300018: Aspidistr8
+    4300020: Aspidistr9
+    4300022: Aspidist10
+    4300024: Aspidist11
+    4300026: Aspidist12
+    4300028: Aspidist13
+    4300030: Aspidist14
+    4300032: Aspidist15
+    4300034: Aspidist16
+    4300036: Aspidist17
+    4300038: Aspidist18
+    4300040: Aspidist19
+    4300042: Aspidist20
+    4300044: Aspidist21
+    4300046: Aspidist22
+    4300048: Aspidist23
+    4300050: Aspidist24
+    4300052: Aspidist25
+    4300054: Aspidist26
+    4300056: Aspidist27
+    4300058: Aspidist28
+    4300060: Aspidist29
+    4300062: Aspidist30
+    4300064: Aspidist31
+    4300066: Aspidist32
+    4300068: Aspidist33
+    4300070: Aspidist34
+    4300072: Aspidist35
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

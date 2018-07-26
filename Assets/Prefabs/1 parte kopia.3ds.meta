@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 1af9909306690dc46ad5f6234937d6fb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 10:1:8
+    100004: 11:1:8
+    100006: 12:1:8
+    100008: 13:1:8
+    100010: 14:1:8
+    100012: 15:1:8
+    100014: 16:1:8
+    100016: 17:1:8
+    100018: 18:1:8
+    100020: 19:1:8
+    100022: 1:1:8
+    100024: 20:1:8
+    100026: 21:1:8
+    100028: 22:1:8
+    100030: 2:1:8
+    100032: 3:1:8
+    100034: 4:1:8
+    100036: 5:1:8
+    100038: 6:1:8
+    100040: 7:1:8
+    100042: 8:1:8
+    100044: 9:1:8
+    100046: Cam_0
+    100048: Cam_0.target
+    100050: Sun
+    100052: Sun.target
+    400000: //RootNode
+    400002: 10:1:8
+    400004: 11:1:8
+    400006: 12:1:8
+    400008: 13:1:8
+    400010: 14:1:8
+    400012: 15:1:8
+    400014: 16:1:8
+    400016: 17:1:8
+    400018: 18:1:8
+    400020: 19:1:8
+    400022: 1:1:8
+    400024: 20:1:8
+    400026: 21:1:8
+    400028: 22:1:8
+    400030: 2:1:8
+    400032: 3:1:8
+    400034: 4:1:8
+    400036: 5:1:8
+    400038: 6:1:8
+    400040: 7:1:8
+    400042: 8:1:8
+    400044: 9:1:8
+    400046: Cam_0
+    400048: Cam_0.target
+    400050: Sun
+    400052: Sun.target
+    2100000: Terra - Marrone
+    2100002: Parquet - 01
+    2100004: Parquet - 02
+    2100006: Pietra - Granito
+    2100008: Mattone - Bianco
+    2300000: 10:1:8
+    2300002: 11:1:8
+    2300004: 12:1:8
+    2300006: 13:1:8
+    2300008: 14:1:8
+    2300010: 15:1:8
+    2300012: 16:1:8
+    2300014: 17:1:8
+    2300016: 18:1:8
+    2300018: 19:1:8
+    2300020: 1:1:8
+    2300022: 20:1:8
+    2300024: 21:1:8
+    2300026: 22:1:8
+    2300028: 2:1:8
+    2300030: 3:1:8
+    2300032: 4:1:8
+    2300034: 5:1:8
+    2300036: 6:1:8
+    2300038: 7:1:8
+    2300040: 8:1:8
+    2300042: 9:1:8
+    3300000: 10:1:8
+    3300002: 11:1:8
+    3300004: 12:1:8
+    3300006: 13:1:8
+    3300008: 14:1:8
+    3300010: 15:1:8
+    3300012: 16:1:8
+    3300014: 17:1:8
+    3300016: 18:1:8
+    3300018: 19:1:8
+    3300020: 1:1:8
+    3300022: 20:1:8
+    3300024: 21:1:8
+    3300026: 22:1:8
+    3300028: 2:1:8
+    3300030: 3:1:8
+    3300032: 4:1:8
+    3300034: 5:1:8
+    3300036: 6:1:8
+    3300038: 7:1:8
+    3300040: 8:1:8
+    3300042: 9:1:8
+    4300000: 1:1:8
+    4300002: 2:1:8
+    4300004: 3:1:8
+    4300006: 4:1:8
+    4300008: 5:1:8
+    4300010: 6:1:8
+    4300012: 7:1:8
+    4300014: 8:1:8
+    4300016: 9:1:8
+    4300018: 10:1:8
+    4300020: 11:1:8
+    4300022: 12:1:8
+    4300024: 13:1:8
+    4300026: 14:1:8
+    4300028: 15:1:8
+    4300030: 16:1:8
+    4300032: 17:1:8
+    4300034: 18:1:8
+    4300036: 19:1:8
+    4300038: 20:1:8
+    4300040: 21:1:8
+    4300042: 22:1:8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mattone - Bianco
+    second: {fileID: 2100000, guid: e59d5cf2c3b8b7b4da1ce4e3e853f7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquet - 01
+    second: {fileID: 2100000, guid: 311e1c6d6c584514984473bbeef3c694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquet - 02
+    second: {fileID: 2100000, guid: 2e26af249a2f7a14dbb88d1cefac8301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pietra - Granito
+    second: {fileID: 2100000, guid: c34f167139e670a42aac6ea843e85f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra - Marrone
+    second: {fileID: 2100000, guid: 754f13b22d3c21e48bf4459b3bc246c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

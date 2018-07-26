@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 8cdb617570837cf4cb185001da627322
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 10:1:8
+    100002: 11:1:8
+    100004: 12:1:1
+    100006: 13:1:1
+    100008: 14:1:1
+    100010: 15:1:1
+    100012: 16:10:5
+    100014: 16:11:5
+    100016: 16:12:5
+    100018: 16:13:5
+    100020: 16:14:5
+    100022: 16:15:5
+    100024: 16:16:5
+    100026: 16:1:5
+    100028: 16:2:5
+    100030: 16:3:5
+    100032: 16:5:5
+    100034: 16:6:5
+    100036: 16:7:5
+    100038: 16:8:5
+    100040: 16:9:5
+    100042: 17:1:4
+    100044: 17:2:4
+    100046: 17:3:4
+    100048: 17:4:4
+    100050: 17:5:4
+    100052: 17:6:4
+    100054: 17:7:4
+    100056: 1:1:8
+    100058: 2:1:9
+    100060: //RootNode
+    100062: 3:1:9
+    100064: 4:1:1
+    100066: 5:1:1
+    100068: 6:1:1
+    100070: 7:1:1
+    100072: 8:10:5
+    100074: 8:11:5
+    100076: 8:12:5
+    100078: 8:13:5
+    100080: 8:14:5
+    100082: 8:15:5
+    100084: 8:16:5
+    100086: 8:1:5
+    100088: 8:2:5
+    100090: 8:3:5
+    100092: 8:5:5
+    100094: 8:6:5
+    100096: 8:7:5
+    100098: 8:8:5
+    100100: 8:9:5
+    100102: 9:1:4
+    100104: 9:2:4
+    100106: 9:3:4
+    100108: 9:4:4
+    100110: 9:5:4
+    100112: 9:6:4
+    100114: 9:7:4
+    100116: Cam_0
+    100118: Cam_0.target
+    100120: Sun
+    100122: Sun.target
+    400000: 10:1:8
+    400002: 11:1:8
+    400004: 12:1:1
+    400006: 13:1:1
+    400008: 14:1:1
+    400010: 15:1:1
+    400012: 16:10:5
+    400014: 16:11:5
+    400016: 16:12:5
+    400018: 16:13:5
+    400020: 16:14:5
+    400022: 16:15:5
+    400024: 16:16:5
+    400026: 16:1:5
+    400028: 16:2:5
+    400030: 16:3:5
+    400032: 16:5:5
+    400034: 16:6:5
+    400036: 16:7:5
+    400038: 16:8:5
+    400040: 16:9:5
+    400042: 17:1:4
+    400044: 17:2:4
+    400046: 17:3:4
+    400048: 17:4:4
+    400050: 17:5:4
+    400052: 17:6:4
+    400054: 17:7:4
+    400056: 1:1:8
+    400058: 2:1:9
+    400060: //RootNode
+    400062: 3:1:9
+    400064: 4:1:1
+    400066: 5:1:1
+    400068: 6:1:1
+    400070: 7:1:1
+    400072: 8:10:5
+    400074: 8:11:5
+    400076: 8:12:5
+    400078: 8:13:5
+    400080: 8:14:5
+    400082: 8:15:5
+    400084: 8:16:5
+    400086: 8:1:5
+    400088: 8:2:5
+    400090: 8:3:5
+    400092: 8:5:5
+    400094: 8:6:5
+    400096: 8:7:5
+    400098: 8:8:5
+    400100: 8:9:5
+    400102: 9:1:4
+    400104: 9:2:4
+    400106: 9:3:4
+    400108: 9:4:4
+    400110: 9:5:4
+    400112: 9:6:4
+    400114: 9:7:4
+    400116: Cam_0
+    400118: Cam_0.target
+    400120: Sun
+    400122: Sun.target
+    2100000: Terra - Marrone
+    2100002: Stucco - Giallo_
+    2100004: Piastrelle - Mar
+    2100006: Vernice - Ocra D
+    2100008: Vernice - Grigio
+    2100010: Pietra - Granito
+    2100012: Mattone - Bianco
+    2100014: Legno - Pino Ven
+    2100016: Vetro - Traspare
+    2300000: 10:1:8
+    2300002: 11:1:8
+    2300004: 12:1:1
+    2300006: 13:1:1
+    2300008: 14:1:1
+    2300010: 15:1:1
+    2300012: 16:10:5
+    2300014: 16:11:5
+    2300016: 16:12:5
+    2300018: 16:13:5
+    2300020: 16:14:5
+    2300022: 16:15:5
+    2300024: 16:16:5
+    2300026: 16:1:5
+    2300028: 16:2:5
+    2300030: 16:3:5
+    2300032: 16:5:5
+    2300034: 16:6:5
+    2300036: 16:7:5
+    2300038: 16:8:5
+    2300040: 16:9:5
+    2300042: 17:1:4
+    2300044: 17:2:4
+    2300046: 17:3:4
+    2300048: 17:4:4
+    2300050: 17:5:4
+    2300052: 17:6:4
+    2300054: 17:7:4
+    2300056: 1:1:8
+    2300058: 2:1:9
+    2300060: 3:1:9
+    2300062: 4:1:1
+    2300064: 5:1:1
+    2300066: 6:1:1
+    2300068: 7:1:1
+    2300070: 8:10:5
+    2300072: 8:11:5
+    2300074: 8:12:5
+    2300076: 8:13:5
+    2300078: 8:14:5
+    2300080: 8:15:5
+    2300082: 8:16:5
+    2300084: 8:1:5
+    2300086: 8:2:5
+    2300088: 8:3:5
+    2300090: 8:5:5
+    2300092: 8:6:5
+    2300094: 8:7:5
+    2300096: 8:8:5
+    2300098: 8:9:5
+    2300100: 9:1:4
+    2300102: 9:2:4
+    2300104: 9:3:4
+    2300106: 9:4:4
+    2300108: 9:5:4
+    2300110: 9:6:4
+    2300112: 9:7:4
+    3300000: 10:1:8
+    3300002: 11:1:8
+    3300004: 12:1:1
+    3300006: 13:1:1
+    3300008: 14:1:1
+    3300010: 15:1:1
+    3300012: 16:10:5
+    3300014: 16:11:5
+    3300016: 16:12:5
+    3300018: 16:13:5
+    3300020: 16:14:5
+    3300022: 16:15:5
+    3300024: 16:16:5
+    3300026: 16:1:5
+    3300028: 16:2:5
+    3300030: 16:3:5
+    3300032: 16:5:5
+    3300034: 16:6:5
+    3300036: 16:7:5
+    3300038: 16:8:5
+    3300040: 16:9:5
+    3300042: 17:1:4
+    3300044: 17:2:4
+    3300046: 17:3:4
+    3300048: 17:4:4
+    3300050: 17:5:4
+    3300052: 17:6:4
+    3300054: 17:7:4
+    3300056: 1:1:8
+    3300058: 2:1:9
+    3300060: 3:1:9
+    3300062: 4:1:1
+    3300064: 5:1:1
+    3300066: 6:1:1
+    3300068: 7:1:1
+    3300070: 8:10:5
+    3300072: 8:11:5
+    3300074: 8:12:5
+    3300076: 8:13:5
+    3300078: 8:14:5
+    3300080: 8:15:5
+    3300082: 8:16:5
+    3300084: 8:1:5
+    3300086: 8:2:5
+    3300088: 8:3:5
+    3300090: 8:5:5
+    3300092: 8:6:5
+    3300094: 8:7:5
+    3300096: 8:8:5
+    3300098: 8:9:5
+    3300100: 9:1:4
+    3300102: 9:2:4
+    3300104: 9:3:4
+    3300106: 9:4:4
+    3300108: 9:5:4
+    3300110: 9:6:4
+    3300112: 9:7:4
+    4300000: 1:1:8
+    4300002: 2:1:9
+    4300004: 3:1:9
+    4300006: 4:1:1
+    4300008: 5:1:1
+    4300010: 6:1:1
+    4300012: 7:1:1
+    4300014: 8:1:5
+    4300016: 8:2:5
+    4300018: 8:3:5
+    4300020: 8:5:5
+    4300022: 8:6:5
+    4300024: 8:7:5
+    4300026: 8:8:5
+    4300028: 8:9:5
+    4300030: 8:10:5
+    4300032: 8:11:5
+    4300034: 8:12:5
+    4300036: 8:13:5
+    4300038: 8:14:5
+    4300040: 8:15:5
+    4300042: 8:16:5
+    4300044: 9:1:4
+    4300046: 9:2:4
+    4300048: 9:3:4
+    4300050: 9:4:4
+    4300052: 9:5:4
+    4300054: 9:6:4
+    4300056: 9:7:4
+    4300058: 10:1:8
+    4300060: 11:1:8
+    4300062: 12:1:1
+    4300064: 13:1:1
+    4300066: 14:1:1
+    4300068: 15:1:1
+    4300070: 16:1:5
+    4300072: 16:2:5
+    4300074: 16:3:5
+    4300076: 16:5:5
+    4300078: 16:6:5
+    4300080: 16:7:5
+    4300082: 16:8:5
+    4300084: 16:9:5
+    4300086: 16:10:5
+    4300088: 16:11:5
+    4300090: 16:12:5
+    4300092: 16:13:5
+    4300094: 16:14:5
+    4300096: 16:15:5
+    4300098: 16:16:5
+    4300100: 17:1:4
+    4300102: 17:2:4
+    4300104: 17:3:4
+    4300106: 17:4:4
+    4300108: 17:5:4
+    4300110: 17:6:4
+    4300112: 17:7:4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legno - Pino Ven
+    second: {fileID: 2100000, guid: 80e0f1058aa97dd45bb58ff651d783c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mattone - Bianco
+    second: {fileID: 2100000, guid: 257606702c905a44d94b04d58435b15a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piastrelle - Mar
+    second: {fileID: 2100000, guid: cec418de8600df342925d0dc2b42829f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pietra - Granito
+    second: {fileID: 2100000, guid: 1a6e332c9bb9da0459adb6978705dda3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stucco - Giallo_
+    second: {fileID: 2100000, guid: 15287a92658d4c046ac2951eacd30ecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra - Marrone
+    second: {fileID: 2100000, guid: af79dc5ba0c0f824b94e0f007c23dfd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vernice - Grigio
+    second: {fileID: 2100000, guid: aac103f759636e14ea2da99d42eb9e31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vernice - Ocra D
+    second: {fileID: 2100000, guid: 36e3675d399fcc34cb2ddd5b7a98b02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vetro - Traspare
+    second: {fileID: 2100000, guid: 1e752f670c70e644187a5c3d3ff776d9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

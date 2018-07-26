@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: d03fd4e9009df6a42bb547c7beab7e50
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Staghorn 0
+    100004: Staghorn 1
+    100006: Staghorn 2
+    100008: Staghorn 3
+    100010: Staghorn 4
+    100012: Staghorn 5
+    100014: Staghorn 6
+    100016: Staghorn 7
+    100018: Staghorn 8
+    100020: Staghorn 9
+    100022: Staghorn F
+    400000: //RootNode
+    400002: Staghorn 0
+    400004: Staghorn 1
+    400006: Staghorn 2
+    400008: Staghorn 3
+    400010: Staghorn 4
+    400012: Staghorn 5
+    400014: Staghorn 6
+    400016: Staghorn 7
+    400018: Staghorn 8
+    400020: Staghorn 9
+    400022: Staghorn F
+    2100000: Staghorn Fern Le
+    2100002: Staghorn Fern1
+    2100004: Staghorn Fern2
+    2100006: Staghorn Fern3
+    2100008: Staghorn Fern4
+    2100010: Staghorn Fern5
+    2100012: Staghorn Fern6
+    2100014: Staghorn Fern7
+    2100016: Staghorn Fern8
+    2100018: Staghorn Fern9
+    2100020: Staghorn Fern10
+    2300000: Staghorn 0
+    2300002: Staghorn 1
+    2300004: Staghorn 2
+    2300006: Staghorn 3
+    2300008: Staghorn 4
+    2300010: Staghorn 5
+    2300012: Staghorn 6
+    2300014: Staghorn 7
+    2300016: Staghorn 8
+    2300018: Staghorn 9
+    2300020: Staghorn F
+    3300000: Staghorn 0
+    3300002: Staghorn 1
+    3300004: Staghorn 2
+    3300006: Staghorn 3
+    3300008: Staghorn 4
+    3300010: Staghorn 5
+    3300012: Staghorn 6
+    3300014: Staghorn 7
+    3300016: Staghorn 8
+    3300018: Staghorn 9
+    3300020: Staghorn F
+    4300000: Staghorn F
+    4300002: Staghorn 0
+    4300004: Staghorn 1
+    4300006: Staghorn 2
+    4300008: Staghorn 3
+    4300010: Staghorn 4
+    4300012: Staghorn 5
+    4300014: Staghorn 6
+    4300016: Staghorn 7
+    4300018: Staghorn 8
+    4300020: Staghorn 9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

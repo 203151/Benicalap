@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: cefa9e00ec923c94893d085329278e04
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Strawber10
+    100002: Strawber11
+    100004: Strawber12
+    100006: Strawber13
+    100008: Strawber14
+    100010: Strawber15
+    100012: Strawber16
+    100014: Strawber17
+    100016: Strawber18
+    100018: Strawber19
+    100020: Strawber20
+    100022: Strawberr0
+    100024: Strawberr1
+    100026: Strawberr2
+    100028: Strawberr3
+    100030: Strawberr4
+    100032: Strawberr5
+    100034: Strawberr6
+    100036: Strawberr7
+    100038: Strawberr8
+    100040: Strawberr9
+    100042: Strawberry
+    100044: //RootNode
+    400000: Strawber10
+    400002: Strawber11
+    400004: Strawber12
+    400006: Strawber13
+    400008: Strawber14
+    400010: Strawber15
+    400012: Strawber16
+    400014: Strawber17
+    400016: Strawber18
+    400018: Strawber19
+    400020: Strawber20
+    400022: Strawberr0
+    400024: Strawberr1
+    400026: Strawberr2
+    400028: Strawberr3
+    400030: Strawberr4
+    400032: Strawberr5
+    400034: Strawberr6
+    400036: Strawberr7
+    400038: Strawberr8
+    400040: Strawberr9
+    400042: Strawberry
+    400044: //RootNode
+    2100000: 'Material #30  __'
+    2100002: Strawberry Leaf_
+    2100004: Strawberry Le1
+    2100006: Strawberry Le2
+    2100008: Strawberry Le3
+    2100010: Strawberry Le4
+    2100012: Strawberry Le5
+    2100014: Strawberry Le6
+    2100016: Strawberry Le7
+    2100018: Strawberry Le8
+    2100020: Strawberry Le9
+    2100022: Strawberry Le10
+    2100024: Strawberry Le11
+    2100026: Strawberry Le12
+    2100028: Strawberry Le13
+    2100030: Strawberry Le14
+    2100032: Strawberry Stem_
+    2100034: Strawberry St1
+    2100036: Strawberry St2
+    2100038: Strawberry St3
+    2100040: Strawberry St4
+    2100042: Strawberry St5
+    2300000: Strawber10
+    2300002: Strawber11
+    2300004: Strawber12
+    2300006: Strawber13
+    2300008: Strawber14
+    2300010: Strawber15
+    2300012: Strawber16
+    2300014: Strawber17
+    2300016: Strawber18
+    2300018: Strawber19
+    2300020: Strawber20
+    2300022: Strawberr0
+    2300024: Strawberr1
+    2300026: Strawberr2
+    2300028: Strawberr3
+    2300030: Strawberr4
+    2300032: Strawberr5
+    2300034: Strawberr6
+    2300036: Strawberr7
+    2300038: Strawberr8
+    2300040: Strawberr9
+    2300042: Strawberry
+    3300000: Strawber10
+    3300002: Strawber11
+    3300004: Strawber12
+    3300006: Strawber13
+    3300008: Strawber14
+    3300010: Strawber15
+    3300012: Strawber16
+    3300014: Strawber17
+    3300016: Strawber18
+    3300018: Strawber19
+    3300020: Strawber20
+    3300022: Strawberr0
+    3300024: Strawberr1
+    3300026: Strawberr2
+    3300028: Strawberr3
+    3300030: Strawberr4
+    3300032: Strawberr5
+    3300034: Strawberr6
+    3300036: Strawberr7
+    3300038: Strawberr8
+    3300040: Strawberr9
+    3300042: Strawberry
+    4300000: Strawberry
+    4300002: Strawberr0
+    4300004: Strawberr1
+    4300006: Strawberr2
+    4300008: Strawberr3
+    4300010: Strawberr4
+    4300012: Strawberr5
+    4300014: Strawberr6
+    4300016: Strawberr7
+    4300018: Strawberr8
+    4300020: Strawberr9
+    4300022: Strawber10
+    4300024: Strawber11
+    4300026: Strawber12
+    4300028: Strawber13
+    4300030: Strawber14
+    4300032: Strawber15
+    4300034: Strawber16
+    4300036: Strawber17
+    4300038: Strawber18
+    4300040: Strawber19
+    4300042: Strawber20
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
